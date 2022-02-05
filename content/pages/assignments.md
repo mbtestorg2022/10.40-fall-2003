@@ -8,16 +8,157 @@ Unless otherwise noted, problems assigned by number refer to corresponding probl
 
 Session numbers indicate due dates for problem sets.
 
-| SES # | TOPICS | PROBLEM SETS |
-| --- | --- | --- |
-| 3 | 1st Law Open Systems | Problem Set 1 ([PDF]({{< baseurl >}}/resources/problem_set1)) |
-| 7 | 1st and 2nd Laws Open and Closed Systems | Problem Set 2 ([PDF]({{< baseurl >}}/resources/problem_set2)) |
-| 11 | Availability and Calculus of Thermodynamics | Problem Set 3 ([PDF]({{< baseurl >}}/resources/problem_set3)) |
-| 17 | Legendre Transforms, Phase Rule, Equilibrium and Stability Criteria | Problem Set 4 ([PDF]({{< baseurl >}}/resources/problem_set4)) |
-| 19 | Pure Fluid Properties Coupled to 1st and 2nd Laws, Fugacity, Activity, Gibbs-Duhem | Problem Set 5 ([PDF]({{< baseurl >}}/resources/problem_set5))  {{< br >}}  {{< br >}}Problem Set 5 Addendum ([PDF]({{< baseurl >}}/resources/problem_set5_add)) |
-| 27 | Introduction to Statistical Mechanics | Problem Set 6 ([PDF]({{< baseurl >}}/resources/problem_set6)) |
-| 31 | Intermolecular Forces and Classical Statistical Mechanics | Problem Set 7 ([PDF]({{< baseurl >}}/resources/problem_set7)) |
-| 35 | Fluid Property Models from Statistical Mechanics - Virial and VDW EOS, Fluctuations and Light Scattering | Problem Set 8 ([PDF]({{< baseurl >}}/resources/problem_set8)) |
-| 37 | Molecular Simulation  {{< br >}}Fluid Properties from Statistical Mechanics  {{< br >}}Departure Functions | Problem Set 9 ([PDF]({{< baseurl >}}/resources/problem_set9)) |
-| 45 | Phase Equilibria | Problem Set 10 ([PDF]({{< baseurl >}}/resources/problem_set10)) |
-| 47 | Phase and Chemical Equilibria | Problem Set 11 ([PDF]({{< baseurl >}}/resources/problem_set11))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+1st Law Open Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 ([PDF]({{< baseurl >}}/resources/problem_set1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+1st and 2nd Laws Open and Closed Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 ([PDF]({{< baseurl >}}/resources/problem_set2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Availability and Calculus of Thermodynamics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 ([PDF]({{< baseurl >}}/resources/problem_set3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Legendre Transforms, Phase Rule, Equilibrium and Stability Criteria
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 4 ([PDF]({{< baseurl >}}/resources/problem_set4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Pure Fluid Properties Coupled to 1st and 2nd Laws, Fugacity, Activity, Gibbs-Duhem
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 5 ([PDF]({{< baseurl >}}/resources/problem_set5))  
+  
+Problem Set 5 Addendum ([PDF]({{< baseurl >}}/resources/problem_set5_add))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Statistical Mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 6 ([PDF]({{< baseurl >}}/resources/problem_set6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Intermolecular Forces and Classical Statistical Mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 7 ([PDF]({{< baseurl >}}/resources/problem_set7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Fluid Property Models from Statistical Mechanics - Virial and VDW EOS, Fluctuations and Light Scattering
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 8 ([PDF]({{< baseurl >}}/resources/problem_set8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Simulation  
+Fluid Properties from Statistical Mechanics  
+Departure Functions
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 9 ([PDF]({{< baseurl >}}/resources/problem_set9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+{{< tdopen >}}
+Phase Equilibria
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 10 ([PDF]({{< baseurl >}}/resources/problem_set10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+47
+{{< tdclose >}}
+{{< tdopen >}}
+Phase and Chemical Equilibria
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 11 ([PDF]({{< baseurl >}}/resources/problem_set11))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

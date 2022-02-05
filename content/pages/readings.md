@@ -8,61 +8,657 @@ Chapter readings in the table are from the course text, Tester, J. W., and Model
 
 A bibliography of [supplementary readings](#suppref) is included below the table.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Part I - Fundamental Principles**{{< /td-colspan >}} |||
-| 1 | Course Outline; Motivation to Connect Classical Concepts and Laws to Physical Properties from Macroscopic to Molecular; Definitions; Nomenclature; Exams Plus Homework Policy; Approach to Solving Problems; Constitutive Property Models and the Ideal Gas State; Postulatory Approach; 1st Law Concepts | Handouts |
-| 2 | Postulatory Approach  {{< br >}}1st Law Concepts (Work, Heat, and Energy); Closed and Open System Treatments, Including PE Plus KE Effects; Tank Blowdown \[Demo - CO2 Fire Extinguisher\] | 1 (all sections), 2 (all sections), 3.1-3.8 |
-| 3 | 1st Law Open Systems; Tank Blowdown and Filling - Class Examples; Problem 3.9 | 3.7-3.9 |
-| 4 | 2nd Law Concepts; Reversible Heat Engines; Carnot Efficiency; Entropy; Clausius Theorem; Reversibility \[Demo - Drinking Bird\] | 4.1-4.5 |
-| 5 | Entropy Balance; 1st and 2nd Laws Combined \[Demo - Hilsch Vortex Tube\] | 4.6-4.7 |
-| 6 | 2nd Law Concepts and Applications; Steady State and Transient Flow Work | 4.8-4.9 |
-| 7 | Availability and Exergy Concepts; Heat Integration and Pinch Analysis; Power Cycle Analysis \[Demo - Stirling Engine\] | 14.1-14.3, 14.5-14.6 |
-| 8 | Calculus of Thermodynamics; Gibbs Fundamental Equation; Graphical Interpretation of Fundamental Surface | 5.1-5.4  {{< br >}}  {{< br >}}Thermodynamic Properties of Pure Materials ([PDF]({{< baseurl >}}/resources/class_8)) |
-| 9 | Derivative Transformation and Manipulation; Maxwell Relations; Jacobian Transformations | 5.1-5.4 |
-| 10 | Legendre Transformations; Equivalent Forms of the Fundamental Equation; Examples | 5.5-5.7 |
-| 11 | Legendre Transforms Continued; Connections to the Gibbs Surface and Other Derived Properties | 5.5-5.7 |
-| 12 | Equilibrium Criteria Concepts and Applications - Phase, Chemical, and Membrane; Phase Rule; Examples of Simple Phase Diagrams | 6.1-6.7 |
-| 13 | Stability Criteria, Concepts and Applications; Critical States | 7.1-7.2 |
-| 14 | Pure Component Properties; Fundundamental Equation; Theorem of Corresponding States; Constitutive Property Models - Stress Connections to Molecular Level Interactions and Effects | 8.1-8.2 |
-| 15 | Real Fluid Properties; _PVTN_ Equations of State; Ideal Gas Heat Capacity Cp\* | 8.3-8.4 |
-| 16 | Departure Functions; Concepts and Applications; Standard Δ_G°_ and Δ_H°_ of Formation | 8.5, 8.7-8.9 |
-| 17 | Mixtures; _PVTN EOSs;_ Partial Molar Properties; Gibbs-Duhem Relation; Mixing Functions; Discuss Problem 9.2; Ideal Gas Mixtures and Ideal Solutions; Fugacity and Fugacity Coefficients; Standard States | 9.1-9.7 |
-| 18 | Ideal Solution Conditions; Excess Properties; Activity and Activity Coefficients; Δ_GEX_\-γi Models (See Table 11.1); Standard States; Thermodynamic Consistency using the Gibbs-Duhem Relation | 9.8, 11.2, 11.4, 11.7, 11.9 |
-| 19 | Mixture Equations of State, Continued and Needs | 11.7, 11.9 |
-| 20 | Review for Exam 1 | &nbsp; |
-| &nbsp; | Exam I: 2 hours | &nbsp; |
-| {{< td-colspan 3 >}}**Part II - Introduction to Statistical Mechanics for the Interpretation of Thermodynamic Functions and the Computation of Thermodynamic Properties**{{< /td-colspan >}} |||
-| 21 | Fundamental Principles of Quantum and Classical Statistical Mechanics - N-body Problem; Phase Space; Statistics and Distribution Functions and Averaging Methods; Boltzmann Distribution | 10.1, handouts  {{< br >}}  {{< br >}}Fundamental Principles of Quantum and Classical Statistical Mechanics ([PDF]({{< baseurl >}}/resources/lecture21notes)) |
-| 22 | Postulates of Statistical Mechanics; Gibbs Ensembles - Micro-canonical and Canonical; States of System; Probabilities | 10.1, handouts  {{< br >}}  {{< br >}}Postulates of Statistical Mechanics, Gibbs Ensembles ([PDF]({{< baseurl >}}/resources/lecture22notes)) |
-| 23 | Computation of Ideal Gas Properties from Intramolecular Effects - Translation, Rotation, Vibration using Statistical Mechanics I | 10.1, handouts  {{< br >}}  {{< br >}}Computation of the Properties of Ideal Gases ([PDF]({{< baseurl >}}/resources/lecture23notes)) |
-| 24 | Computation of Ideal Gas Properties from Intramolecular Effects - Translation, Rotation, Vibration using Statistical Mechanics II | 10.1, handouts  {{< br >}}  {{< br >}}Computation of the Properties of Ideal Gases ([PDF]({{< baseurl >}}/resources/lecture23notes))  {{< br >}}  {{< br >}}Appendix to Session 21-24 Statistical Mechanics Readings: Connection to Thermodynamics and Derivation of Boltzmann Distribution ([PDF]({{< baseurl >}}/resources/appendix)) |
-| 25 | Classical Statistical Mechanics; Hamiltonian and Ideal Gases; Factoring the Partition Function with the Semi-classical Approximation; _PVTN_ Properties via Configuration Integral from Intermolecular Effects; Grand Canonical Ensemble I | 10.1, handouts |
-| 26 | Semi-classical Approximation; _PVTN_ Properties via Configuration Integral from Intermolecular Effects; Grand Canonical Ensemble II - Examples | 10.1, handouts |
-| 27 | Gibbs Ensembles Continued: Micro-canonical Ensemble Revisited, Grand Canonical, NPT, etc., Including Equivalence of Ensembles; Time Averaging and Ergodicity, and Fluctuations; Macroscopic Connection | 10.1, handouts |
-| 28 | Intermolecular Forces and Potentials; Role of Quantum Mechanics; Commonly used Potential Functions; Pairwise Additivity | 10.2-10.3 |
-| 29 | Virial Equation of State and Molecular Corresponding States from Statistical Mechanics; Connection of _PVTN_ Equations of State to Statistical Mechanics and Molecular Simulations | 10.4-10.6 |
-| 30 | Mean Field Theory; Connecting the van der Waals EOS Model to Statistical Mechanics; Hard Sphere Fluids; Perturbed Hard Sphere Fluids; Lattice Models | 10.6, 10.8 |
-| 31 | Statistical Mechanical Models of Fluids I - Expanding the Virial EOS to Mixtures; Radial Distribution Functions; Structure of Fluid and Solid Phases; Critical Phenomena (Fluctuations, Critical Opalescence) | 10.7 |
-| 32 | Statistical Mechanical Models of Fluids II - Biological Materials and Protein Applications | 10.7 |
-| 33 | Foundations of Molecular Simulations - Monte Carlo and Molecular Dynamics | 10.9 |
-| 34 | Application of Molecular Simulations to Estimating Pure Component and Mixture Properties | 10.9 |
-| {{< td-colspan 3 >}}**Part III - Multi-scale Thermodynamics of Pure Fluids and Mixtures - Physical Properties and Phase and Chemical Equilibria**{{< /td-colspan >}} |||
-| 35 | Calculation of Pure Component Properties (Vapor Pressure, Δ _Hvap_, … etc.) Using Equation of State and Other Models - Departure Functions | 8.5, 8.7, 8.9 |
-| 36 | Review of Mixture Thermodynamics; Fugacity; Fugacity Coefficient; Activity; Activity Coefficient; Standard States and Constitutive Models for Capturing Non-Ideal Effects | 9.1-9.8 |
-| 37 | Phase Equilibrium and Stability - Gibbs Phase Rule; Phase Diagrams; Using Constitutive Property Models for Capturing Non-Ideal Effects | 15.1-15.2, 15.8 |
-| 38 | Applications of Mixture Thermodynamics to VLE Phase Equilibria; Minimum Work of Separation, etc. | 9.7-9.9, 11.4, 11.7, 11.9 |
-| 39-40 | _Review for Exam II  {{< br >}}  {{< br >}}_Review of Statistical Mechanics Principles and Applications, and Pure Fluid and Mixture Properties | &nbsp; |
-| &nbsp; | Exam II: 2 hours | &nbsp; |
-| 41 | Phase Equilibria; Differential Approach; Constitutive Property Models Continued; _P-T_ Relationships | 15.3-15.4, 11.1-11.7 |
-| 42 | Phase Equilibria; Integral Approach; Applications; Solubility - Gas - Liquid, Liquid - Liquid, and Solid - Liquid Systems | 15.5 |
-| 43 | Phase Equilibria Applications - Examples Colligative Properties; Ternary Diagrams; S-L-V Three Phase Monovariant Binary Equilibria; Biological Examples | &nbsp; |
-| 44 | Phase Stability Applications; Spinodal Decomposition; Critical Points; Uses of Equations of State and Gibbs Free Energy Models; Polymer and Materials Examples; Pictures of Crystalization | 7.1-7.2, 15.6-15.7 |
-| 45 | Chemical Equilibrium - General Approach; Nonstoichiometric and Stoichiometric Formulation; Statistical Mechanical Approach | 16.1-16.4, 16.9 |
-| 46 | Equilibrium Constants and Standard States; Gibbs Phase Rule Applications | 16.5-16.6 |
-| 47 | Chemical Equilibria Applications and Example Problems; Combined Phase and Chemical Equilbria | 17.1-17.3 |
-| 48 | Review Session | &nbsp; |
-| &nbsp; | Final Exam: 3 hours |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I - Fundamental Principles**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Outline; Motivation to Connect Classical Concepts and Laws to Physical Properties from Macroscopic to Molecular; Definitions; Nomenclature; Exams Plus Homework Policy; Approach to Solving Problems; Constitutive Property Models and the Ideal Gas State; Postulatory Approach; 1st Law Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+Handouts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Postulatory Approach  
+1st Law Concepts (Work, Heat, and Energy); Closed and Open System Treatments, Including PE Plus KE Effects; Tank Blowdown \[Demo - CO2 Fire Extinguisher\]
+{{< tdclose >}}
+{{< tdopen >}}
+1 (all sections), 2 (all sections), 3.1-3.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+1st Law Open Systems; Tank Blowdown and Filling - Class Examples; Problem 3.9
+{{< tdclose >}}
+{{< tdopen >}}
+3.7-3.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+2nd Law Concepts; Reversible Heat Engines; Carnot Efficiency; Entropy; Clausius Theorem; Reversibility \[Demo - Drinking Bird\]
+{{< tdclose >}}
+{{< tdopen >}}
+4.1-4.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Entropy Balance; 1st and 2nd Laws Combined \[Demo - Hilsch Vortex Tube\]
+{{< tdclose >}}
+{{< tdopen >}}
+4.6-4.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+2nd Law Concepts and Applications; Steady State and Transient Flow Work
+{{< tdclose >}}
+{{< tdopen >}}
+4.8-4.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Availability and Exergy Concepts; Heat Integration and Pinch Analysis; Power Cycle Analysis \[Demo - Stirling Engine\]
+{{< tdclose >}}
+{{< tdopen >}}
+14.1-14.3, 14.5-14.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Calculus of Thermodynamics; Gibbs Fundamental Equation; Graphical Interpretation of Fundamental Surface
+{{< tdclose >}}
+{{< tdopen >}}
+5.1-5.4  
+  
+Thermodynamic Properties of Pure Materials ([PDF]({{< baseurl >}}/resources/class_8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Derivative Transformation and Manipulation; Maxwell Relations; Jacobian Transformations
+{{< tdclose >}}
+{{< tdopen >}}
+5.1-5.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Legendre Transformations; Equivalent Forms of the Fundamental Equation; Examples
+{{< tdclose >}}
+{{< tdopen >}}
+5.5-5.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Legendre Transforms Continued; Connections to the Gibbs Surface and Other Derived Properties
+{{< tdclose >}}
+{{< tdopen >}}
+5.5-5.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Equilibrium Criteria Concepts and Applications - Phase, Chemical, and Membrane; Phase Rule; Examples of Simple Phase Diagrams
+{{< tdclose >}}
+{{< tdopen >}}
+6.1-6.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Stability Criteria, Concepts and Applications; Critical States
+{{< tdclose >}}
+{{< tdopen >}}
+7.1-7.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Pure Component Properties; Fundundamental Equation; Theorem of Corresponding States; Constitutive Property Models - Stress Connections to Molecular Level Interactions and Effects
+{{< tdclose >}}
+{{< tdopen >}}
+8.1-8.2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Real Fluid Properties; _PVTN_ Equations of State; Ideal Gas Heat Capacity Cp\*
+{{< tdclose >}}
+{{< tdopen >}}
+8.3-8.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Departure Functions; Concepts and Applications; Standard Δ_G°_ and Δ_H°_ of Formation
+{{< tdclose >}}
+{{< tdopen >}}
+8.5, 8.7-8.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Mixtures; _PVTN EOSs;_ Partial Molar Properties; Gibbs-Duhem Relation; Mixing Functions; Discuss Problem 9.2; Ideal Gas Mixtures and Ideal Solutions; Fugacity and Fugacity Coefficients; Standard States
+{{< tdclose >}}
+{{< tdopen >}}
+9.1-9.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Ideal Solution Conditions; Excess Properties; Activity and Activity Coefficients; Δ_GEX_\-γi Models (See Table 11.1); Standard States; Thermodynamic Consistency using the Gibbs-Duhem Relation
+{{< tdclose >}}
+{{< tdopen >}}
+9.8, 11.2, 11.4, 11.7, 11.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Mixture Equations of State, Continued and Needs
+{{< tdclose >}}
+{{< tdopen >}}
+11.7, 11.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam I: 2 hours
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II - Introduction to Statistical Mechanics for the Interpretation of Thermodynamic Functions and the Computation of Thermodynamic Properties**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental Principles of Quantum and Classical Statistical Mechanics - N-body Problem; Phase Space; Statistics and Distribution Functions and Averaging Methods; Boltzmann Distribution
+{{< tdclose >}}
+{{< tdopen >}}
+10.1, handouts  
+  
+Fundamental Principles of Quantum and Classical Statistical Mechanics ([PDF]({{< baseurl >}}/resources/lecture21notes))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Postulates of Statistical Mechanics; Gibbs Ensembles - Micro-canonical and Canonical; States of System; Probabilities
+{{< tdclose >}}
+{{< tdopen >}}
+10.1, handouts  
+  
+Postulates of Statistical Mechanics, Gibbs Ensembles ([PDF]({{< baseurl >}}/resources/lecture22notes))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Computation of Ideal Gas Properties from Intramolecular Effects - Translation, Rotation, Vibration using Statistical Mechanics I
+{{< tdclose >}}
+{{< tdopen >}}
+10.1, handouts  
+  
+Computation of the Properties of Ideal Gases ([PDF]({{< baseurl >}}/resources/lecture23notes))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Computation of Ideal Gas Properties from Intramolecular Effects - Translation, Rotation, Vibration using Statistical Mechanics II
+{{< tdclose >}}
+{{< tdopen >}}
+10.1, handouts  
+  
+Computation of the Properties of Ideal Gases ([PDF]({{< baseurl >}}/resources/lecture23notes))  
+  
+Appendix to Session 21-24 Statistical Mechanics Readings: Connection to Thermodynamics and Derivation of Boltzmann Distribution ([PDF]({{< baseurl >}}/resources/appendix))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Classical Statistical Mechanics; Hamiltonian and Ideal Gases; Factoring the Partition Function with the Semi-classical Approximation; _PVTN_ Properties via Configuration Integral from Intermolecular Effects; Grand Canonical Ensemble I
+{{< tdclose >}}
+{{< tdopen >}}
+10.1, handouts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Semi-classical Approximation; _PVTN_ Properties via Configuration Integral from Intermolecular Effects; Grand Canonical Ensemble II - Examples
+{{< tdclose >}}
+{{< tdopen >}}
+10.1, handouts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Gibbs Ensembles Continued: Micro-canonical Ensemble Revisited, Grand Canonical, NPT, etc., Including Equivalence of Ensembles; Time Averaging and Ergodicity, and Fluctuations; Macroscopic Connection
+{{< tdclose >}}
+{{< tdopen >}}
+10.1, handouts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Intermolecular Forces and Potentials; Role of Quantum Mechanics; Commonly used Potential Functions; Pairwise Additivity
+{{< tdclose >}}
+{{< tdopen >}}
+10.2-10.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Virial Equation of State and Molecular Corresponding States from Statistical Mechanics; Connection of _PVTN_ Equations of State to Statistical Mechanics and Molecular Simulations
+{{< tdclose >}}
+{{< tdopen >}}
+10.4-10.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Mean Field Theory; Connecting the van der Waals EOS Model to Statistical Mechanics; Hard Sphere Fluids; Perturbed Hard Sphere Fluids; Lattice Models
+{{< tdclose >}}
+{{< tdopen >}}
+10.6, 10.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical Mechanical Models of Fluids I - Expanding the Virial EOS to Mixtures; Radial Distribution Functions; Structure of Fluid and Solid Phases; Critical Phenomena (Fluctuations, Critical Opalescence)
+{{< tdclose >}}
+{{< tdopen >}}
+10.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Statistical Mechanical Models of Fluids II - Biological Materials and Protein Applications
+{{< tdclose >}}
+{{< tdopen >}}
+10.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Foundations of Molecular Simulations - Monte Carlo and Molecular Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+10.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Application of Molecular Simulations to Estimating Pure Component and Mixture Properties
+{{< tdclose >}}
+{{< tdopen >}}
+10.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III - Multi-scale Thermodynamics of Pure Fluids and Mixtures - Physical Properties and Phase and Chemical Equilibria**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Calculation of Pure Component Properties (Vapor Pressure, Δ _Hvap_, … etc.) Using Equation of State and Other Models - Departure Functions
+{{< tdclose >}}
+{{< tdopen >}}
+8.5, 8.7, 8.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Mixture Thermodynamics; Fugacity; Fugacity Coefficient; Activity; Activity Coefficient; Standard States and Constitutive Models for Capturing Non-Ideal Effects
+{{< tdclose >}}
+{{< tdopen >}}
+9.1-9.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Phase Equilibrium and Stability - Gibbs Phase Rule; Phase Diagrams; Using Constitutive Property Models for Capturing Non-Ideal Effects
+{{< tdclose >}}
+{{< tdopen >}}
+15.1-15.2, 15.8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of Mixture Thermodynamics to VLE Phase Equilibria; Minimum Work of Separation, etc.
+{{< tdclose >}}
+{{< tdopen >}}
+9.7-9.9, 11.4, 11.7, 11.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39-40
+{{< tdclose >}}
+{{< tdopen >}}
+_Review for Exam II  
+  
+_Review of Statistical Mechanics Principles and Applications, and Pure Fluid and Mixture Properties
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Exam II: 2 hours
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41
+{{< tdclose >}}
+{{< tdopen >}}
+Phase Equilibria; Differential Approach; Constitutive Property Models Continued; _P-T_ Relationships
+{{< tdclose >}}
+{{< tdopen >}}
+15.3-15.4, 11.1-11.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+Phase Equilibria; Integral Approach; Applications; Solubility - Gas - Liquid, Liquid - Liquid, and Solid - Liquid Systems
+{{< tdclose >}}
+{{< tdopen >}}
+15.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+Phase Equilibria Applications - Examples Colligative Properties; Ternary Diagrams; S-L-V Three Phase Monovariant Binary Equilibria; Biological Examples
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+44
+{{< tdclose >}}
+{{< tdopen >}}
+Phase Stability Applications; Spinodal Decomposition; Critical Points; Uses of Equations of State and Gibbs Free Energy Models; Polymer and Materials Examples; Pictures of Crystalization
+{{< tdclose >}}
+{{< tdopen >}}
+7.1-7.2, 15.6-15.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Equilibrium - General Approach; Nonstoichiometric and Stoichiometric Formulation; Statistical Mechanical Approach
+{{< tdclose >}}
+{{< tdopen >}}
+16.1-16.4, 16.9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+46
+{{< tdclose >}}
+{{< tdopen >}}
+Equilibrium Constants and Standard States; Gibbs Phase Rule Applications
+{{< tdclose >}}
+{{< tdopen >}}
+16.5-16.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+47
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical Equilibria Applications and Example Problems; Combined Phase and Chemical Equilbria
+{{< tdclose >}}
+{{< tdopen >}}
+17.1-17.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+48
+{{< tdclose >}}
+{{< tdopen >}}
+Review Session
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam: 3 hours
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "suppref" >}}{{< /anchor >}}Supplementary References\*
 -----------------------------------------------------------------

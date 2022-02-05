@@ -9,26 +9,240 @@ Supplementary Notes for Course Text
 
 Tester, J. W., and Modell, Michael. _Thermodynamics and Its Applications_. Upper Saddle River, NJ: Prentice Hall PTR, 1996. ISBN: 9780139153563.
 
-| SES # | CHAPTERS | SUPPLEMENTARY NOTES |
-| --- | --- | --- |
-| 2 | 1-3 | Ch 1-3 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnote_ch01_03)) |
-| 3 | 1-3 (cont.) | Ch 1-3 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnote_ch01_03)) |
-| 4 | 4 | Ch 4 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch04)) |
-| 5 | 4 (cont.) | Ch 4 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch04)) |
-| 6 | 4 (cont.) | Ch 4 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch04)) |
-| 7 | 14 | Ch 14 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch14)) |
-| 8 | 5 | Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05)) |
-| 9 | 5 (cont.) | Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05)) |
-| 10 | 5 (cont.) | Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05)) |
-| 11 | 5 (cont.) | Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05)) |
-| 14 | 8 | Ch 8 Supplementary Notes ([PDF]({{< baseurl >}}/resources/chapter8)) |
-| 15 | 8 (cont.) | Ch 8 Supplementary Notes ([PDF]({{< baseurl >}}/resources/chapter8)) |
-| 16 | 8 (cont.) | Ch 8 Supplementary Notes ([PDF]({{< baseurl >}}/resources/chapter8)) |
-| 17 | 9 | Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09)) |
-| 18 | 9 (cont.) | Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09)) |
-| 36 | 9 (cont.) | Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09)) |
-| 38 | 9 (cont.) | Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09)) |
-| 47 | 17 | Ch 17 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch17)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+CHAPTERS
+{{< thclose >}}
+{{< thopen >}}
+SUPPLEMENTARY NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+1-3
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 1-3 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnote_ch01_03))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+1-3 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 1-3 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnote_ch01_03))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 4 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+4 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 4 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+4 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 4 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 14 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch14))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+5 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+5 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+5 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 8 Supplementary Notes ([PDF]({{< baseurl >}}/resources/chapter8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+8 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 8 Supplementary Notes ([PDF]({{< baseurl >}}/resources/chapter8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+8 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 8 Supplementary Notes ([PDF]({{< baseurl >}}/resources/chapter8))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+9 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+9 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+9 (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+47
+{{< tdclose >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Ch 17 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch17))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional Topical Notes
 ------------------------
