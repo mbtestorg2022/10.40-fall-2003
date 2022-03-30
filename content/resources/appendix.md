@@ -5,6 +5,7 @@ description: Appendix to Lectures 21 through 24 covering canonical ensemble, max
   of thermodynamic quantities to Q.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-40-chemical-engineering-thermodynamics-fall-2003/e7b51076ef1a087faf3456d5ab224b5e_appendix.pdf
 file_type: application/pdf
+parent_uid: 127a7954-257b-d858-50e7-bfdedfeb3e92
 resourcetype: Document
 title: appendix.pdf
 uid: e7b51076-ef1a-087f-af34-56d5ab224b5e

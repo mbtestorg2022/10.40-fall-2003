@@ -6,6 +6,7 @@ description: 'Homework assignment. Unless otherwise noted, problems assigned by 
   1997. ISBN: 0-13-915356-X.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-40-chemical-engineering-thermodynamics-fall-2003/ee4d08d884445fb0245b560d77e9920e_problem_set6.pdf
 file_type: application/pdf
+parent_uid: c776a51e-ecca-7cb1-889f-b466b5fe1890
 resourcetype: Document
 title: problem_set6.pdf
 uid: ee4d08d8-8444-5fb0-245b-560d77e9920e

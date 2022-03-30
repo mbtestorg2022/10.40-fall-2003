@@ -7,6 +7,7 @@ description: 'Image removed due to copyright considerations. Please see "Hilsenr
   of Thermal Properties of Gases necessary for Problem Set 5..'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-40-chemical-engineering-thermodynamics-fall-2003/426470e636db00535423d79bc48536c8_problem_set5_add.pdf
 file_type: application/pdf
+parent_uid: c776a51e-ecca-7cb1-889f-b466b5fe1890
 resourcetype: Document
 title: problem_set5_add.pdf
 uid: 426470e6-36db-0053-5423-d79bc48536c8

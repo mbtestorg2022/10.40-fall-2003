@@ -6,6 +6,7 @@ description: 'Thermodynamics questions. Unless otherwise noted, problems assigne
   Hall PTR, 1997. ISBN: 0-13-915356-X.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/10-40-chemical-engineering-thermodynamics-fall-2003/7560f08e108e658bbd837b0a0a486d9e_problem_set3.pdf
 file_type: application/pdf
+parent_uid: c776a51e-ecca-7cb1-889f-b466b5fe1890
 resourcetype: Document
 title: problem_set3.pdf
 uid: 7560f08e-108e-658b-bd83-7b0a0a486d9e
